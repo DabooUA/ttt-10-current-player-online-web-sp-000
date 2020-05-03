@@ -1,4 +1,5 @@
 def turn_count(board)
 count = 0
-turn_count.each{ |""|  }
+turn_count.each{|index|}
+count += 1 
 end
